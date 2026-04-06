@@ -26,10 +26,13 @@ SoraSi is a fully functional e-commerce platform developed as part of my advance
 
 ## 📸 Screenshots
 
-![Home Screen](https://github.com/user-attachments/assets/ecd3f9bd-990f-4926-800c-2848e2a89689)
-![Details Screen](https://github.com/user-attachments/assets/37cbad0f-6e0c-4fa8-be3b-a9109460acd3)
-![Favorite Screen](https://github.com/user-attachments/assets/a49ba60f-9392-4917-a384-cbe6532ad2ae)
-![Cart Screen](https://github.com/user-attachments/assets/dfbe8d32-8aaf-4c5b-8f20-332935ffd515)
+| Home Screen | Details Screen |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/ecd3f9bd-990f-4926-800c-2848e2a89689" width="300"> | <img src="https://github.com/user-attachments/assets/37cbad0f-6e0c-4fa8-be3b-a9109460acd3" width="300"> |
+
+| Favorite Screen | Cart Screen |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/a49ba60f-9392-4917-a384-cbe6532ad2ae" width="300"> | <img src="https://github.com/user-attachments/assets/dfbe8d32-8aaf-4c5b-8f20-332935ffd515" width="300"> |
 
 ---
 
