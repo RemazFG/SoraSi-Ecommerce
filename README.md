@@ -1,4 +1,4 @@
-# sorase_store
+# sorasi_store
 
 A new Flutter project.
 
